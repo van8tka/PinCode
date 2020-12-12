@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PinCode</string>
+    <string name="action_settings">Settings</string>
+	<string name="EnterPIN">Enter current PIN</string>
+	<string name="CreatePIN">Create new PIN</string>
+	<string name="RepeatPIN">Repeat new PIN</string>
+	<string name="pin_created">Pin was created</string>
+	<string name="pin_changed">Pin was changed</string>
+	<string name="pin_no_match">Repeated pin is not match created, try enter again!</string>
+	<string name="pin_error">Uncorrect enter pin</string>
+</resources>
